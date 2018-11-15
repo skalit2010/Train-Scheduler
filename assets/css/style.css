@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Faster+One|Josefin+Sans|Racing+Sans+One');
+header {
+	padding: 120px 0px;
+	background-image: url("../images/train.jpg");
+	background-size: 100% 100%;
+}
+
+.title {
+	font-size: 80px;
+	margin-top: 0px;
+    margin-bottom: 50px;
+    font-family: 'Racing Sans One', cursive;
+    color: white;
+    text-shadow: #474747 3px 5px 2px;
+}
+
+.header-text {
+	font-size: 25px;
+	font: bold;
+    font-family: 'Faster One', cursive;
+    color: #FFFFFF;
+    text-shadow: 2px 2px 0 #474747, 2px -2px 0 #474747, -2px 2px 0 #474747, -2px -2px 0 #474747, 2px 0px 0 #474747, 0px 2px 0 #474747, -2px 0px 0 #474747, 0px -2px 0 #474747;
+}
+
+.time-text {
+    font-size: 18px;
+    font-family: 'Audiowide', cursive;
+}
+
+.card-title {
+	color: white;
+	padding-bottom: 5px;
+	padding-left: 15px;
+}
+
+.card {
+	margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card-row {
+	margin: 10px 50px;
+}
+
+th {
+	font-weight: bold;
+}
