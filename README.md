@@ -6,4 +6,4 @@ Mr.Worldwide is a train schedule application that incorporates Firebase to host 
 ### Technologies Used
 HTML, CSS, JavaScript, jQuery, Firebase, Moment.js, Bootstrap, Bootswatch
 
-![TrainScheduler Screenshot](https://github.com/skalit2010/TrainScheduler/blob/master/assets/images/screenshot.png)
+![TrainScheduler Screenshot](https://github.com/skalit2010/Train-Scheduler/blob/master/assets/images/screenshot.png)
